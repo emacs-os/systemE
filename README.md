@@ -1,3 +1,5 @@
+> **Note:** This repo has been donated to the new [emacs-os](https://github.com/emacs-os) organization for historical purposes and will be archived soon. Keep an eye out for [el-init](https://github.com/emacs-os/el-init) coming soon.
+
 ![Logo](emacs.png)
 
 # systemE
